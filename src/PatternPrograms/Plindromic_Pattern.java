@@ -22,7 +22,7 @@ public class Plindromic_Pattern {
 			//2nd half numbers
 			for(int j=2;j<=i;j++)
 			{
-				System.out.print(j );
+				System.out.print(j);
 			}
 			
 			System.out.println();

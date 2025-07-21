@@ -10,7 +10,8 @@ public class Inverted_Half_Pyramid_Rotated_by180Degree {
 		{
 			
 			//Inner loop ----> Space Print
-			for(int j=1; j<=n-i;j++)
+			int spaces =n-i;
+			for(int j=1; j<=spaces;j++)
 			{
 				System.out.print(" ");
 			}
